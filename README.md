@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @royeyal
 - 👀 I’m a Technical Designer at Wix
-- 🌱 I’m currently learning JS and Velo by Wix
+- 🌱 I’m currently learning React, Tailwind, Webflow and WordPress Blocks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
