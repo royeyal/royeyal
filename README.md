@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @royeyal
-- 👀 I’m a Technical Designer at Wix
+- 👀 Fornerky at Elementor & Wix
 - 🌱 I’m currently learning React, Tailwind, Webflow and WordPress Blocks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
