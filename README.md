@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @royeyal
 - 👀 Formerly at Elementor & Wix
-- 🌱 I’m currently learning React, Tailwind, Webflow and WordPress Blocks
+- 🌱 I’m using Github to mainain all my Webflow and WordPress websites
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
