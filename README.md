@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @royeyal
 - 👀 Formerly at Elementor & Wix
 - 🌱 I’m using Github to mainain all my Webflow and WordPress websites
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me on my site royeyal,studio
 
 <!---
 royeyal/royeyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
